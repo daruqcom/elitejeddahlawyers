@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#1E2A4A"/>
+  <path d="M60,60 Q300,10 560,70" stroke="#B76E42" stroke-width="1.2" fill="none" opacity="0.35" stroke-dasharray="5 5"/>
+  <!-- calculator body -->
+  <g transform="translate(300,90)">
+    <rect x="0" y="0" width="220" height="320" rx="18" fill="#EAF0F6"/>
+    <rect x="16" y="20" width="188" height="60" rx="8" fill="#131C33"/>
+    <text x="190" y="60" font-family="monospace" font-size="26" fill="#B76E42" text-anchor="end">1,234</text>
+    <!-- button grid -->
+    <g fill="#1E2A4A">
+      <rect x="16" y="96" width="40" height="40" rx="8"/>
+      <rect x="64" y="96" width="40" height="40" rx="8"/>
+      <rect x="112" y="96" width="40" height="40" rx="8"/>
+      <rect x="160" y="96" width="44" height="40" rx="8" fill="#B76E42"/>
+      <rect x="16" y="144" width="40" height="40" rx="8"/>
+      <rect x="64" y="144" width="40" height="40" rx="8"/>
+      <rect x="112" y="144" width="40" height="40" rx="8"/>
+      <rect x="160" y="144" width="44" height="40" rx="8" fill="#B76E42"/>
+      <rect x="16" y="192" width="40" height="40" rx="8"/>
+      <rect x="64" y="192" width="40" height="40" rx="8"/>
+      <rect x="112" y="192" width="40" height="40" rx="8"/>
+      <rect x="160" y="192" width="44" height="88" rx="8" fill="#B76E42"/>
+      <rect x="16" y="240" width="88" height="40" rx="8"/>
+      <rect x="112" y="240" width="40" height="40" rx="8"/>
+    </g>
+  </g>
+  <!-- small document behind, peeking left -->
+  <g transform="translate(190,150)">
+    <rect x="0" y="0" width="140" height="180" rx="10" fill="#2A3A63" stroke="#3f4f7d"/>
+    <rect x="18" y="24" width="90" height="8" rx="3" fill="#B76E42"/>
+    <rect x="18" y="46" width="104" height="6" rx="3" fill="#8f9bbf"/>
+    <rect x="18" y="62" width="104" height="6" rx="3" fill="#8f9bbf"/>
+    <rect x="18" y="78" width="70" height="6" rx="3" fill="#8f9bbf"/>
+  </g>
+  <circle cx="640" cy="130" r="4" fill="#B76E42"/>
+  <path d="M640,130 Q560,180 520,260" stroke="#B76E42" stroke-width="1.2" fill="none" opacity="0.35" stroke-dasharray="5 5"/>
+</svg>

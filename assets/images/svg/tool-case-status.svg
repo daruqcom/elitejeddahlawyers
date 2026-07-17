@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460">
+  <rect width="800" height="460" fill="#EAF0F6"/>
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1E2A4A" text-anchor="middle">متابعة حالة القضية خطوة بخطوة</text>
+
+  <!-- progress line -->
+  <line x1="110" y1="230" x2="690" y2="230" stroke="#D8DFEA" stroke-width="8"/>
+  <line x1="110" y1="230" x2="470" y2="230" stroke="#B76E42" stroke-width="8"/>
+
+  <!-- step nodes -->
+  <g font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
+    <circle cx="110" cy="230" r="26" fill="#B76E42"/>
+    <path d="M98,230 l8,8 l16,-18" stroke="#EAF0F6" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="110" y="280" fill="#1E2A4A">تقديم الطلب</text>
+
+    <circle cx="300" cy="230" r="26" fill="#B76E42"/>
+    <path d="M288,230 l8,8 l16,-18" stroke="#EAF0F6" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="300" y="280" fill="#1E2A4A">قيد المراجعة</text>
+
+    <circle cx="490" cy="230" r="26" fill="#1E2A4A"/>
+    <circle cx="490" cy="230" r="8" fill="#EAF0F6"/>
+    <text x="490" y="280" fill="#1E2A4A" font-weight="700">جلسة محددة</text>
+
+    <circle cx="680" cy="230" r="26" fill="#D8DFEA" stroke="#B9C2D8" stroke-width="2"/>
+    <text x="680" y="280" fill="#8A93A8">صدور الحكم</text>
+  </g>
+
+  <text x="400" y="360" font-family="Arial, sans-serif" font-size="14" fill="#4A5266" text-anchor="middle">تابع حالة قضيتك رسميًا عبر منصة ناجز، أو راسلنا مباشرة إن كنا نمثلك</text>
+</svg>
