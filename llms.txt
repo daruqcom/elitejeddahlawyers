@@ -1,8 +1,8 @@
-# Elite Jeddah Lawyers
+# Elite Jeddah Lawyers Directory
 
 > A licensed law firm based in Jeddah, Saudi Arabia, providing legal representation and advisory services to individuals and businesses across 14 practice areas, with coverage of Jeddah's main districts and Saudi-wide client support via WhatsApp.
 
-Contact: WhatsApp +966530643306 | Office: Al-Hamra District, Falasteen Street, Jeddah
+Contact: WhatsApp +923232558275 | Office: Al-Hamra District, Falasteen Street, Jeddah
 
 ## Practice Areas
 - [Corporate & Commercial Legal Services](https://elitejeddahlawyers.com/en/services/corporate-commercial/)
@@ -70,7 +70,7 @@ Contact: WhatsApp +966530643306 | Office: Al-Hamra District, Falasteen Street, J
 - [Lawyer in Al Naeem](https://elitejeddahlawyers.com/en/al-naeem/)
 - [Lawyer in Obhur](https://elitejeddahlawyers.com/en/obhur/)
 
-## Free Tools
+## Tools
 - [Legal Tools & Calculators](https://elitejeddahlawyers.com/en/tools/)
 
 ## Legal Blog
